@@ -1,5 +1,6 @@
 return {
   "idrilirdi/bad-practices.nvim",
-  branch = "add-snacks-support",
+  enabled = false,
+  branch = "main",
   opts = {},
 }
