@@ -17,3 +17,7 @@ end
 
 require "lazy_setup"
 require "polish"
+
+-- Remote plugins
+vim.g.python3_host_prog = vim.fn.exepath 'python3'
+vim.g.loaded_python3_provider = nil
