@@ -9,6 +9,7 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.remote-development.netman-nvim" },
   -- { import = "astrocommunity.editing-support.quick-scope" },
   -- import/override with your plugins folder
 }
